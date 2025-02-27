@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Alexandre Henrique Fernandes Da Silva, tenho 18 anos e sou natural do Rio Grande do Norte. Atualmente estou aprendendo a programar na alura desenvolvendo projetos.
+Me chamo Alexandre Henrique FernandPes Da Silva, tenho 18 anos e sou natural do Rio Grande do Norte. Atualmente estou aprendendo a programar na alura desenvolvendo projetos.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/alexandre-fernandes-3a3267198/">
@@ -121,15 +121,15 @@ Me chamo Alexandre Henrique Fernandes Da Silva, tenho 18 anos e sou natural do R
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="141" 
+    style="padding-right: 3px;" 
     src="https://github-readme-stats.vercel.app/api?username=Alexandfdes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="141" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandfdes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
