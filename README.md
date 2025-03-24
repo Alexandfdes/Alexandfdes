@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Alexandre Fernandes
+#  👨‍💻 Alexandre Fernandes
 
 **`Desenvolvedor FullStack`**
 
