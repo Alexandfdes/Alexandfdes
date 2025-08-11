@@ -1,8 +1,8 @@
 #  👨‍💻 Alexandre Fernandes
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
-Me chamo Alexandre Henrique Fernandes Da Silva, tenho 18 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Ciência da Computação e aprendendo a programar na Alura, desenvolvendo projetos e aprimorando minhas habilidades na área de tecnologia.
+Me chamo Alexandre Henrique Fernandes da Silva, tenho 19 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Ciência da Computação e atuo no desenvolvimento de projetos terceirizados para empresas, buscando sempre aprimorar minhas habilidades e expandir meus conhecimentos na área de tecnologia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/alexandre-fernandes-3a3267198/">
