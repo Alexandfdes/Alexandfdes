@@ -17,13 +17,13 @@ Me chamo Alexandre Henrique Fernandes da Silva, tenho 19 anos e sou natural do R
             title="Meu Email" 
             src="https://custom-icon-badges.demolab.com/badge/Email-E61B23.svg?logo=mailrger"
         />
-    </a> 
-    <a href="https://www.instagram.com/alexandfdes/">
-        <img 
-            alt="Instagram" 
-            title="Meu Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-FF006F.svg?logo=instagram (1)rfgwerg"
-        />
+  <a href="https://www.instagram.com/alexandfdes/">
+    <img 
+        alt="Instagram" 
+        title="Meu Instagram" 
+        src="https://custom-icon-badges.demolab.com/badge/Instagram-FF006F.svg?logo=instagram"
+    />
+</a>
     </a>
     <a href="https://github.com/Alexandfdes?tab=followers">
         <img 
@@ -52,22 +52,6 @@ Me chamo Alexandre Henrique Fernandes da Silva, tenho 19 anos e sou natural do R
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 /> 
 <img 
     align="left" 
@@ -79,20 +63,13 @@ Me chamo Alexandre Henrique Fernandes da Silva, tenho 19 anos e sou natural do R
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Delphi" 
+    title="Delphi"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"  
-/>
+
 <img 
     align="left" 
     alt="Git" 
